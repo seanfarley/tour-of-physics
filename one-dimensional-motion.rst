@@ -226,3 +226,109 @@ street level for many U.S. cities.
 
 CQ: What is the length of your desk top? What is the width of this room? How
 far do you live from the classroom?
+
+Velocity
+--------
+
+Velocity is a measure of how fast you are traveling past something else and is
+written with the symbol :math:`v`. Speed is measured in :math:`m/s` (pronounced
+meters per second, just as 6 slices of pie per 2 persons is written 6 pieces/2
+persons = 3 pieces/person). The speed of a car is 60 mph = 100 km/h. When a car
+moves at a constant speed-say 20 m/s-its position is changing by a constant
+amount-20 meters, in this example-every second, even between the seventh and
+eighth seconds. By the way, fingernails grow and continents drift at a speed of
+about 2 cm/year. Speed is always measured relative to something else, which in
+turn may or may not be in motion relative to something else. For example, a
+child might walk across your lap while you are sitting in a car that is passing
+another car along a row of houses. Suppose that you stand on a moving continent
+and point one finger in the direction of the continent's motion and another
+opposite its motion. With what speed do the fingernails on these two hands then
+move?
+
+
+The definition of velocity is
+
+.. math::
+
+   v = \frac{\Delta x}{\Delta t} = \frac{X_{final} - X_{initial}}{t_{final} -
+   t_{initial}} = \frac{x_f - x_i}{t_f - t_i}.
+
+Velocity = change in position / change in time. It is a measure of how quickly
+the position of an object is changing.
+
+The change :math:`\Delta` is always "final minus initial." We often choose
+subscripts 0 and 1 to represent the two values or drop the "final" subscript on
+one variable. The numerical value of speed calculated from this equation is
+independent of the axis origin. One stationary observer might put :math:`x = 0`
+in Los Angeles (Pacific time) while another puts :math:`x = 0` in Natchitoches
+(Central time) but both calculate the same speed. For example, the Natchitoches
+observer sees a car at :math:`x_i = 50` miles at time :math:`t_i = 5` hours and
+then is at position :math:`x_f = 150` miles at time :math:`t_f = 7` hours. Its
+speed is then
+
+.. math::
+
+   v = \frac{\Delta x}{\Delta t} = \frac{x_f - x_i}{t_f - t_i} = \frac{150 - 50
+   miles}{7 - 5 h} = 50 mph.
+
+The same numerical speed is calculated by the observer sitting in Los Angeles,
+2000 miles away using clocks shifted by two hours.
+
+.. math::
+   v = \frac{\Delta x}{\Delta t} = \frac{x_f - x_i}{t_f - t_i} = \frac{2150 - 2050
+   miles}{5 - 3 h} = 50 mph.
+
+Physicists require that models of nature be independent of the observers
+coordinate system and independent of the observer's system of units (this is
+gauge theory).
+
+CQ: Use the ruler and stop watch to measure your own walking speed or the speed
+of a bug or fly. (By the way, how does a fly go about landing on the ceiling?
+Does it first invert while flying and then land while inverted?)
+
+Example:
+To convert speeds from mph to m/s, multiply by 0.44, or to convert m/s
+to mph multiply by 2.25. For example, 10 m/s = 22.5 mph.
+
+.. math::
+
+   \frac{1 mile}{hour} \cdot \frac{1.6 km}{mile} \cdot \frac{1000m}{km} \cdot
+   \frac{1 hour}{3600s} = 0.44 \frac{km}{s}
+
+CQ:
+Show that 60 mph = 88 ft/s. This means that 600 mph = 880 ft/s.
+
+.. math::
+
+   \frac{60 miles}{hour} \cdot \frac{5280 ft}{mile} \cdot \frac{1 hour}{3600s}
+   = 88 \frac{ft}{s}
+
+Example:
+
+What is the speed of blood flowing in your arm? When I plug and release the
+vein in my arm here, I see blood move 0.05 m in 0.25 s. Its speed is then
+:math:`v = \frac{\Delta x}{\Delta t} = \frac{0.05 m}{0.25 s} = 0.2 \frac{m}{s}`.
+
+CQ: If a dog runs 100 meters in 20 seconds then its speed :math:`v =
+\frac{\Delta x}{\Delta t} = 100 m / 20 s = 5 m/s`
+
+Example:
+
+The speed of light is :math:`3 \times 10^8 \frac{m}{s}`. At this speed, how
+many times, :math:`n`, in one second would light travel a distance equal to the
+circumference of the Earth? The radius of the Earth is :math:`r_e = 6.37 \times
+10^6 m` and its circumference is `H = 2\pi r = ( 2 )( 3.14 )( 6.37 \times 10^6
+m ) = 4.00 x 10^7 m`. The distance light moves is given by :math:`x = vt = ct =
+nH`. Solve for :math:`n = \frac{ct}{H} = \frac{3 \times 10^8 m/s \cdot 1
+s}{4.00 \times 10^7 m} = 7.5`.
+
+Distinguish average from instantaneous speed: get into your car, turn it on,
+speed up, drive 10 miles at 60 mph, passing at 70 mph and slowing to 40 mph for
+animals, then stop and get out. Picture this motion by putting yourself into
+that car making that trip. You will have an "average speed = total distance
+traveled /total time" but at any instant your "instantaneous speed" might have
+been any number between 0 and 70 mph.
+
+We have a speed if our location is changing, otherwise we are not moving. What
+is the difference between speed and acceleration? We have an acceleration if
+our velocity is changing.
