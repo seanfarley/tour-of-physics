@@ -11,6 +11,7 @@ Contents:
    :numbered:
 
    preface
+   intro
 
 Indices and tables
 ==================
