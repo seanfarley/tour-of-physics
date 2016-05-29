@@ -399,3 +399,17 @@ strongly pressed into the chair of the car. By the way, the time rate of change
 of a is called jerk--because we do feel a jerking motion. You'll feel
 :math:`\frac{da}{dt}` if you quickly press and release the gas pedal several
 times.
+
+Acceleration is caused by force
+-------------------------------
+
+In everyday life, we describe a force as a push or a pull. Isaac Newton, who
+will be the hero of the next chapter, combined and extended the motion studies
+of Kepler, Galileo, and others by stating that force equals mass times
+acceleration, :math:`F = ma`. Mass :math:`m` resists the acceleration. The
+gravitational force between you and the Earth results in your weight, :math:`W
+= mg`. When you drop an object, its weight is the force that causes its
+acceleration. We have :math:`F = ma = mg`. We cancel the :math:`m` and see that
+all weights fall with the same acceleration, :math:`a = g`, as was Galileo's
+rumor. When the force is constant then the acceleration is constant, and we
+have :math:`a = F/m`.
