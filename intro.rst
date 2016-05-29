@@ -270,3 +270,60 @@ stop. Don't spend any test preparation time doing arithmetic or algebra because
 you know that you'll do those things just fine on the test. Instead, spend your
 test preparation time just setting up the solutions to a great number of
 homework problems.
+
+Here are some online study guides for success in college.
+http://www.ucc.vt.edu/stdysk/stdyhlp.html
+http://www.ee.calpoly.edu/%7Ejbreiten/htbas.html
+http://webhost.bridgew.edu/jhayesboh/NOT13TH/not13th.htm
+
+Here are some tips for studying physics.
+http://wc.pima.edu/~carem/PHYSICSS.html
+
+The website http://studentaffairs.case.edu/education/resources/external.html
+recommends http://www.oberlin.edu/physics/dstyer/StudyTips.html.
+
+There are many online collections of problems and their solutions, for example,
+http://zebu.uoregon.edu/~probs/probm.html.
+
+You might use the online accompaniments to the standard physics textbooks.
+http://sciphys.homestead.com/index2.html
+
+Newtonian Physics by Benjamin Crowell is available online.
+http://www.faqs.org/docs/Newtonian/
+
+Benjamin Crowell has online textbooks of physics and astronomy.
+http://www.lightandmatter.com/
+
+Here is a glossary of physics terms
+http://www.lightandmatter.com/area1glossary.shtml
+
+Louis A. Blomfield has an online collection of everyday examples of physics
+taken from his book How Everything Works: Making Physics out of the Ordinary.
+http://rabi.phys.virginia.edu/HTW/complete.html
+
+The Department of Physics and Astronomy at the University of Georgia, Athens
+has an online collection of answers to Ask the Physicist! questions from the
+public. http://askthephysicist.com
+
+The University of the South in Sewanee, Tennessee has an online table of
+physical constants,
+http://www.sewanee.edu/physics/QUANTUM_MECHANICS/PHYSICAL-CONSTANTSCOLOR.html
+
+and they recommend the on-line book Physics Formulary by J. C. A. Wevers.
+http://www.xs4all.nl/~johanw/physics.pdf
+
+Maurice Barnhill of the University of Delaware has a table of the units of
+common physical quantities. http://www.udel.edu/mvb/units.html
+
+An interactive periodic table is online at http://www.webelements.com/ or
+http://www.chemicool.com/
+
+Russ Rowlett and the University of North Carolina at Chapel Hill has A
+Dictionary of Units of Measurement.
+http://www.unc.edu/~rowlett/units/index.html
+
+The College Of Chemistry at UC-Berkeley has conversion factors.
+http://chemistry.berkeley.edu/links/weights/equivalences.html
+
+MIT OpenCourseWare includes a video physics course by Walter Lewin.
+http://ocw.mit.edu/OcwWeb/Physics/8-01Physics-IFall1999/CourseHome/index.htm
