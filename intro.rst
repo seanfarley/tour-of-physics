@@ -182,33 +182,33 @@ that is written on the board. In your notes, try to explain to yourself the
 physical reasoning discussed in the lectures. It works wonders if, at the end
 of the day, you rewrite your notes.
 
-1) Form problem solving groups but be sure to work and understand each problem
+#) Form problem solving groups but be sure to work and understand each problem
    yourself. Group members can help each other learn by questioning each other
    and by explaining to each other. Prepare before hand so that you can
    contribute.
 
-2) We learn physics mostly by doing (90%) and much less by watching the teacher
-  (10%). About 90% of what you learn in this course, you’ll learn while
-  struggling for a couple hundred hours to solve homework problems. The
-  remaining 10% of your understanding is obtained from listening to the teacher
-  and watching him or her solve problems. The student has to exert mental
-  effort to make sense of the material. While exerting effort, the necessary
-  new neuronal connections are being made and forming knowledge and
-  understanding. As it is said, you become neither strong nor knowledgeable by
-  watching other people work. Golden words do not exist that a teacher can say
-  to instantly impart understanding within you. About all that the teacher can
-  do is to direct your efforts. Your understanding depends on little else
-  besides the number of problems that you think about and try to solve.
-  Mistakes are a natural part of the learning process. Don’t be too concerned
-  about mistakes because we learn by making them: we profit from them. When an
-  expert in one field tries to solve problems in another field, the expert
-  makes the same sort of errors as does the novice. Every problem is solved
-  after some fumbling in the dark. It is known that we learn best when
-  surprised.
+#) We learn physics mostly by doing (90%) and much less by watching the teacher
+   (10%). About 90% of what you learn in this course, you'll learn while
+   struggling for a couple hundred hours to solve homework problems. The
+   remaining 10% of your understanding is obtained from listening to the
+   teacher and watching him or her solve problems. The student has to exert
+   mental effort to make sense of the material. While exerting effort, the
+   necessary new neuronal connections are being made and forming knowledge and
+   understanding. As it is said, you become neither strong nor knowledgeable by
+   watching other people work. Golden words do not exist that a teacher can say
+   to instantly impart understanding within you. About all that the teacher can
+   do is to direct your efforts. Your understanding depends on little else
+   besides the number of problems that you think about and try to solve.
+   Mistakes are a natural part of the learning process. Don't be too concerned
+   about mistakes because we learn by making them: we profit from them. When an
+   expert in one field tries to solve problems in another field, the expert
+   makes the same sort of errors as does the novice. Every problem is solved
+   after some fumbling in the dark. It is known that we learn best when
+   surprised.
 
-3) Follow the suggested problem solving procedure shown below.
+#) Follow the suggested problem solving procedure shown below.
 
-4) Keep up with assignments by managing your time. Daily study is much more
+#) Keep up with assignments by managing your time. Daily study is much more
    effective than intensive stretches done only on the night before an
    examination. Do not try to wait until the last moment and then cram for an
    exam. To help you plan your study time, previous students have reported that
@@ -233,30 +233,30 @@ heads the blueprints for a building. We all learn the hard way that we are more
 successful at solving problems if we follow an organized, step by step
 approach.
 
-1) Draw a picture to explain the problem and indicate the axes and their
+#) Draw a picture to explain the problem and indicate the axes and their
    origins in the sketch (unless the problem involves nothing more than
    plugging numbers into an equation). This helps keep arithmetic signs
    consistent throughout the solution. Indicate the meaning of the symbols in
    the sketch. For example, when h = building height, show ‘h’ next to the
    drawn rectangle.
 
-2) List given and unknown quantities, and including units. For example, F = -3
+#) List given and unknown quantities, and including units. For example, F = -3
    N, m = 3 kg, a = ?
    
-3) Describe your physical reasoning in a written sentence. When you review your
+#) Describe your physical reasoning in a written sentence. When you review your
    solution in the future, you'll be grateful that you had. For example, "the
    force of ground friction slows the box."
 
-4) Write equations relating the known and unknown quantities. For example, F =
+#) Write equations relating the known and unknown quantities. For example, F =
    ma.
 
-5) Algebraically solve equations for unknowns before plugging in numerical
+#) Algebraically solve equations for unknowns before plugging in numerical
    values. For example, a=F/m
 
-6) Plug the numbers into your final algebraic equation and then box your final
+#) Plug the numbers into your final algebraic equation and then box your final
    answer. For example, a = F / m = -3 N / 3 kg = -1 m/s2.
 
-7) Make sure your answer is reasonable and that it has the correct dimensions.
+#) Make sure your answer is reasonable and that it has the correct dimensions.
    
 You should consider your homework solutions to be notes that you have written
 to yourself to be read the night before the test. Use sentences to explain to
