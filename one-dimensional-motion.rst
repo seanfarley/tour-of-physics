@@ -137,10 +137,11 @@ larger distance through the next (write down an estimate of this distance) as
 your speed increases from slow to fast and then faster.
 
 Galileo found that as a ball rolls down an inclined plane, its speed increases
-linearly in time–it is accelerating–but its position increases as the square of
-time. Mathematically, these are written v % t and x % t2. Using the letter ‘a’
-as the constant of proportionality, these two relations are also written v = at
-and x = 1⁄2 a t2.
+linearly in time -- it is accelerating -- but its position increases as the
+square of time. Mathematically, these are written :math:`v \propto t` and
+:math:`x \propto t^2`. Using the letter 'a' as the constant of proportionality,
+these two relations are also written :math:`v = at` and :math:`x = \frac{1}{2}
+at^2`.
 
 CQ: Would you have guessed before making these measurements that nature behaves
 in this specific, mathematical way? Would you expect nature to behave in a
@@ -152,11 +153,11 @@ whether the incline is set nearly horizontal or completely vertical, which then
 results in "free-fall" motion. In the year 1632, Galileo published his results
 in Dialogue Concerning Two New Sciences. Before Galileo, nobody had stumbled
 across the importance of the time rate of change of speed. Galileo quantified
-the change in speed, which is acceleration, a = ( vf - vi ) / ( tf - ti ) = Äv
-/ Ät = dv / dt. We will use the Greek letter delta for the symbol to represent
-“change.” It is always the “final minus initial” values. Just a few decades
-later, Isaac Newton would build upon Galileo’s work to figure out that forces
-cause accelerations.
+the change in speed, which is acceleration, :math:`a = \frac{v_f - v_i}{t_f -
+t_i} = \frac{\Delta v}{\Delta t} = \frac{dv}{dt}`. We will use the Greek letter
+delta for the symbol to represent "change." It is always the "final minus
+initial" values. Just a few decades later, Isaac Newton would build upon
+Galileo's work to figure out that forces cause accelerations.
 
 What other sorts of natural phenomena might be describable by an equation? The
 answer is: all of them. We find out more accurately how nature works when we
