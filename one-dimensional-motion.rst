@@ -208,3 +208,21 @@ seconds, and the age of the universe is 13 billion years or :math:`4 \times
 
 CQ: What is the duration of the trajectory of this tossed item? For how many
 seconds have you lived?
+
+Distance
+--------
+
+Distance is a measure of how far you have traveled and is written with the
+symbol 'x'. Distance is measured in meters and sometimes stated in terms of
+kilometers or miles and such. One mile is 1.6 kilometers. Let's look at the
+size of millimeters and centimeters on this meter stick. Let's look though Jeff
+Phillips' list of order-of-magnitude estimates of times, lengths, masses,
+speeds, accelerations, forces, and energies for various objects. Let's look at
+the National High Magnetic Field Laboratory's visual tour through the powers of
+ten, from the Universe, to the Milky Way Galaxy, and down to the subatomic
+universe of electrons and protons. By the way, the NASA Worldwind website lets
+you zoom from satellite altitude down to any location on the Earth-down to
+street level for many U.S. cities.
+
+CQ: What is the length of your desk top? What is the width of this room? How
+far do you live from the classroom?
