@@ -229,7 +229,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'TourofPhysics.tex', u'Tour of Physics Documentation',
+    (master_doc, 'TourofPhysics.tex', u'Tour of Physics',
      u'Robert Dalling', 'manual'),
 ]
 
@@ -259,7 +259,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'tourofphysics', u'Tour of Physics Documentation',
+    (master_doc, 'tourofphysics', u'Tour of Physics',
      [author], 1)
 ]
 
@@ -273,8 +273,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'TourofPhysics', u'Tour of Physics Documentation',
-     author, 'TourofPhysics', 'One line description of project.',
+    (master_doc, 'TourofPhysics', u'Tour of Physics',
+     author, 'TourofPhysics', 'Open-source Physics Textbook.',
      'Miscellaneous'),
 ]
 
