@@ -332,3 +332,70 @@ been any number between 0 and 70 mph.
 We have a speed if our location is changing, otherwise we are not moving. What
 is the difference between speed and acceleration? We have an acceleration if
 our velocity is changing.
+
+Acceleration
+------------
+
+Acceleration is a measure of how quickly a speed is changing. It is written
+with the symbol 'a' and is measured in :math:`\frac{m}{s^2}` (pronounced meters
+per second squared). Moving at constant acceleration means your speed increases
+by a constant amount per unit of time. The definition of acceleration is
+
+.. math::
+   a = \frac{\Delta v}{\Delta t}
+
+Acceleration = change in speed / change in time. It is a measure of how quickly
+the speed of an object is changing.
+
+`Here
+<http://www.ac.wwu.edu/~vawter/PhysicsNet/Topics/Kinematics/AccelerationValues.html>`_
+and `here <http://myweb.lmu.edu/jphillips/101_s03/orders.html>`_ are some
+sample values of acceleration.
+
+Example: A person jumps off a platform and experiences a vertical increase in
+speed of 4.9 m/s in 0.5s. The acceleration of the person is
+
+.. math::
+
+   a = \frac{\Delta v}{\Delta t} = \frac{v_f - v_i}{t_f - t_i} = \frac{4.9
+   \frac{m}{s} - 0 \frac{m}{s}}{0.5s} = 9.8 \frac{m}{s^2}
+
+We use the symbol 'g' to represent this acceleration due to gravity.
+
+Example: It `takes the Shuttle 50 seconds
+<http://www.nasa.gov/mp4/151590main_121_launch_fixed_vodcast.mp4>`_ to reach a
+speed of 750 mph, 1 minute 47 seconds to reach a speed of 2600 mph, and 8.5
+minutes to reach 17,000 mph. What is its average acceleration at each of these
+three points? We multiply 750, 2600, and 17,000 mph by 0.44 to obtain 333.3,
+1156, and 7560 m/s. The acceleration is then :math:`a = \frac{\Delta v}{\Delta
+t} = \frac{333.3 m/s}{50 s} = 6.7 \frac{m}{s^2}`, which is 6.7/9.8 = 0.7g,
+:math:`a = \frac{\Delta v}{\Delta t} = \frac{1156 m/s}{60 + 47 s} = 10.8
+\frac{m}{s^2}`, which is 10.8/9.8 = 1.1 g, and :math:`a = \frac{\Delta
+v}{\Delta t} = \frac{7560 m/s}{8.5 \times 60 s} = 14.8 m/s^2`, which is
+14.8/9.8 = 1.5g. For a period just before the engines are cutoff, its
+acceleration grows to 3g.
+
+We have no sensation of speed but we feel acceleration in an elevator as it
+starts or stops. As you push the "accelerator pedal" to speed up to get onto
+the highway, you see the speedometer reading increase and you feel the
+acceleration as your back is pressed into the car seat, making you feel
+"heavier." (On page 44 of The Sciences, An Integrated Approach (James Trefil
+and Robert M. Hazen, 2004, John Wiley & Sons, Inc., Trefil describes his
+experience of g-forces as being similar to having multiple persons sitting on
+you all at once. Trefil and jet pilots say that a 5g acceleration feels like
+five people sitting on top of you.) If this press stays constant then the
+acceleration is constant. If you press and release the peddle several times,
+you are thrown into and out of the seat and will feel the acceleration change
+in an irritating way. Can acceleration change? Yes, but not in this course. We
+want to understand the meaning of acceleration and not bury it for no reason
+with complicated mathematics. If acceleration changes then the motion equations
+given below do not apply; instead, calculus must be used to obtain other forms
+of these equations. The time rate of change of acceleration has been aptly
+named "jerk." This is of interest in the design of public transportation
+vehicles but very few natural phenomenon involve the rate of change of
+acceleration. While driving our cars, we might accelerate gently and feel a
+gentle push, or press the pedal to the floor to produce a high 'a' and feel
+strongly pressed into the chair of the car. By the way, the time rate of change
+of a is called jerk--because we do feel a jerking motion. You'll feel
+:math:`\frac{da}{dt}` if you quickly press and release the gas pedal several
+times.
