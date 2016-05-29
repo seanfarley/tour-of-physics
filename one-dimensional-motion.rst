@@ -174,3 +174,37 @@ These are the most important points of the course.
 Lets look one-by-one at distance, time, speed, and acceleration. A goal of this
 chapter is for us to gain an understanding of the physical meaning of speed and
 acceleration.
+
+Time
+----
+
+Time is measured in seconds. We sometimes count seconds by counting out loud:
+"one thousand, two thousand." The time that elapses between heartbeats is about
+three-fourths seconds.
+
+Lifetimes typically last for about one billion heart beats, no matter the
+species or heart rate. In general, the larger the animal, the slower the heart
+rate. Small animals having heart rates ten times the human rate and have
+lifetimes that are one-tenth as long as a human's lifetime.
+
+Example:
+How many seconds are in a year?
+
+.. math::
+
+   \frac{60sec}{min} \cdot \frac{60min}{hour} \cdot \frac{24hours}{day} \cdot
+   \frac{365days}{year}
+
+When estimating calculations, a year has about :math:`\pi \times 10^7` seconds.
+
+Example:
+How many years are there in a billion seconds?
+
+:math:`\frac{10^9 s}{3.15 \times 10^7 \frac{sec}{year}} = 31.7` years.
+
+The age of the Earth is 4.5 billion years or :math:`1.5 \times 10^{17}`
+seconds, and the age of the universe is 13 billion years or :math:`4 \times
+10^{17}` seconds.
+
+CQ: What is the duration of the trajectory of this tossed item? For how many
+seconds have you lived?
