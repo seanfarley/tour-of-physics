@@ -327,3 +327,71 @@ http://chemistry.berkeley.edu/links/weights/equivalences.html
 
 MIT OpenCourseWare includes a video physics course by Walter Lewin.
 http://ocw.mit.edu/OcwWeb/Physics/8-01Physics-IFall1999/CourseHome/index.htm
+
+Video clips and computer simulations bring the equations to life
+----------------------------------------------------------------
+
+See https://sites.google.com/a/lsmsa.edu/robert-dalling/ for a collection of
+2,000 links to websites that explain every topic in the introductory physics
+course. The links provide classroom tools involving science in history,
+society, and art, see http://www.bugman123.com/Physics/index.html. There are
+links to examples of everyday physics-for example, the flow of energy in living
+creatures, human beings, the planet, homes, and factories and such.
+
+By spending a few minutes with a computer simulation, a student may build as
+much physical intuition as results from solving several numerical problems. The
+static photographs shown in textbooks can not compare to these simulations. For
+example, two-d collisions come to life in Drew Dolgert's applet, see
+http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Collision
+/jarapplet.html. In this simulation of Newton's Cradle, see
+http://www.strille.net/works/ newtons_cradle.swf, push the second sphere
+rightward to give four of five spheres a sideways toss and then watch the
+evolution of the momentum exchanges. Follow this example of velocity exchange
+with David N. Blauch's visual development of Maxwell's velocity distribution,
+see http://www.chm.davidson.edu/vce/KineticMolecularTheory/Maxwell.html, and
+with Noriyoshi Kato's Motion of Ideal Gas Molecules in a Cylinder, see
+http://www2.biglobe.ne.jp/~norimari/science/ JavaApp/e-gas.html. Selman
+Hershfield brings the lens equation to life at http://www.phys.ufl.edu
+/~phy3054/light/lens/applets/convlens/Welcome.html. Paul Falstad animates 3D
+wave interference, see http://www.falstad.com/ripple (press the down arrow
+twice and then click 3D-View).
+
+A teacher's verbal description of a phenomenon may have less educational value
+than does a student's interaction with a simulation or viewing of an animation.
+Some examples include Rutgers University's demonstration of centripetal force,
+see http://paer.rutgers.edu/PT3/experiment.php?to picid=5&exptid=56, E.
+Manousakis' animation of Kepler's Equal Area Law, see http://www.physics.f
+su.edu/courses/fall98/ast1002/section4/kepler/10_13_27.mov, and David Kirkby's
+Simulation of Sound Traveling Through Air, see
+http://positron.ps.uci.edu/~dkirkby/music/html/demos/PlaneWave /SoundWave.html.
+Alex Krizhevsky shows the dynamic superposition of two sine waves, see
+http://thespoon7.tripod.com/wave.htm.
+
+Some links involve video of real life physics. For example, inertia is
+demonstrated in the space shuttle, see
+http://www.nas.nasa.gov/About/Education/SpaceSettlement/Video/thrust.mpg, or
+the student might analyze the trajectory of a leaping dolphin, see
+http://www.arkive.org/species/GES/mammals/Lagenorhynchus_obscurus/Lagenorhynchus_ob_06b.ht
+ml?movietype=rpMed. The Phet simulation compares trajectories with and without
+air resistance, see
+http://phet.colorado.edu/sims/projectile-motion/projectile-motion.swf.
+
+Not every school can afford the equipment needed for classroom demonstrations,
+so the collection includes links to video clips of demonstrations conducted at
+various universities. Wake Forest University has a video of a Van DeGraaff
+generator at http://www.wfu.edu/physics/demolabs
+/demos/avimov/e_and_m/vdg/VandeGraff.MPG and a Telsa Coil at
+http://www.wfu.edu/physics /demolabs/demos/5/5n/5n2050.ram. If we had time,
+each of us teachers would build and demonstrate a bed of nails. We can instead
+show Mahanakorn's video, see http://www.mut.ac.th/~physics/Physics
+Magic/nails.htm.
+
+The listed simulations also encourage the student to pursue further study. A
+simulation of an advanced topic illustrates that the professional scientist or
+engineer uses nothing besides the equations contained in the introductory
+textbook. The only difference is that a computer is used to do more
+calculations than a person can do, see http://vis.lbl.gov/Vignettes and
+http://ircamera.as.arizona .edu/NatSci102/movies/twogalaxymerger%5b1%5d.mpg.
+See Video clips, animations, and computer simulations that bring to life the
+equations of physics at
+http://physicsed.buffalostate.edu/pubs/WebSights/2007-8/05-2008/DallingLinks.htm
