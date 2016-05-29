@@ -223,7 +223,7 @@ Problem-solving procedure and study technique for physics
 ---------------------------------------------------------
 
 Every beginning student of physics tries at first to solve problems by reading
-the question, grabbing a pencil, and writing 3 cos( 24 ) + 7 sin( 15 ). But
+the question, grabbing a pencil, and writing :math:`3 \cos(24) + 7 \sin(15)`. But
 this approach rarely works as it requires you to solve the entire problem in
 your head. This causes unnecessary confusion and frustration. Through future
 years of study, problems get increasingly long: Each of this year's problems
@@ -237,24 +237,25 @@ approach.
    origins in the sketch (unless the problem involves nothing more than
    plugging numbers into an equation). This helps keep arithmetic signs
    consistent throughout the solution. Indicate the meaning of the symbols in
-   the sketch. For example, when h = building height, show ‘h’ next to the
-   drawn rectangle.
+   the sketch. For example, when h = building height, show :math:`h` next to
+   the drawn rectangle.
 
-#) List given and unknown quantities, and including units. For example, F = -3
-   N, m = 3 kg, a = ?
+#) List given and unknown quantities, and including units. For example,
+   :math:`F = -3 N, m = 3 kg, a = ?`.
    
 #) Describe your physical reasoning in a written sentence. When you review your
    solution in the future, you'll be grateful that you had. For example, "the
    force of ground friction slows the box."
 
-#) Write equations relating the known and unknown quantities. For example, F =
-   ma.
+#) Write equations relating the known and unknown quantities. For example,
+   :math:`F = ma`.
 
 #) Algebraically solve equations for unknowns before plugging in numerical
    values. For example, a=F/m
 
 #) Plug the numbers into your final algebraic equation and then box your final
-   answer. For example, a = F / m = -3 N / 3 kg = -1 m/s2.
+   answer. For example, :math:`a = \frac{F}{m} = -3 \frac{N}{3} \, kg = -1 \,
+   \frac{m}{s^2}`.
 
 #) Make sure your answer is reasonable and that it has the correct dimensions.
    
