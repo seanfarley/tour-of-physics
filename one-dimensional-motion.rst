@@ -526,3 +526,33 @@ get :math:`x = v_0 t + \frac{1}{2} at^2 + c`. The constant is found from
 :math:`x(t=0) = x_0`. Writing :math:`a = dv/dt = dx/dt dv/dx = v dv/dx` and
 integrating from :math:`x_0` to :math:`x` and :math:`0` to :math:`t` we get
 :math:`\int v \, dv = \int a \, dx` or :math:`v^2 = v_0^2+2a(x-x_0)`.
+
+Area under the curve
+--------------------
+
+Suppose an object travels through a first time interval at constant speed, then
+travels through a second and equal distance at a second speed, and then a third
+and so on. The total distance traveled is
+
+.. math::
+
+   \Delta x = v_0 \Delta t + v_1 \Delta t + v_2 \Delta t + v_3 \Delta t + v_4
+   \Delta t + v_5 \Delta t + v_6 \Delta t + \ldots + v_n \Delta t = \sum v_i
+   \Delta t = \int v \, dt.
+
+.. tikz:: An Example with a Caption
+
+   \begin{axis}[%
+          xlabel=$t$ (seconds),
+          ylabel=$v(m/s)$,
+          axis x line = bottom,axis y line = left,
+          ytick={0},
+          ymin=0,
+          ymax=1,
+          ymax=1.2 % or enlarge y limits=upper,
+          ]
+
+   \addplot+[const plot, no marks, thick] coordinates {(0,0.35) (1,0.65) (2,0.5)
+   (3,0.8) (4,1) (4.49,1)} node[above,pos=.57,black] {$v_n$};
+
+   \end{axis}
