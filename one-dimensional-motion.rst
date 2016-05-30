@@ -514,3 +514,15 @@ m/s ) / 10 s = 2 m/s^2` and it will have traveled a distance
 Compared to your own driving style, does this seem like a high or low rate of
 acceleration? Do you typically accelerate from 0 to 20 m/s (45 mph) in 10
 seconds while traveling just 100 meters?
+
+Calculus topic: obtaining the constant acceleration equations
+-------------------------------------------------------------
+
+For differential changes in speed, :math:`a = dv/dt` or :math:`v = \int a \, dt
+= a \int \, dt = at + c`. The integration constant is determined from the
+condition that :math:`v(t=0) = v_0`, giving :math:`v = v_0 + at`. From :math:`v
+= dx/dt` or :math:`x = \int v \, dt = \int (v_0 + at ) \, dt`, we integrate to
+get :math:`x = v_0 t + \frac{1}{2} at^2 + c`. The constant is found from
+:math:`x(t=0) = x_0`. Writing :math:`a = dv/dt = dx/dt dv/dx = v dv/dx` and
+integrating from :math:`x_0` to :math:`x` and :math:`0` to :math:`t` we get
+:math:`\int v \, dv = \int a \, dx` or :math:`v^2 = v_0^2+2a(x-x_0)`.
