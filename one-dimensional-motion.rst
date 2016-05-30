@@ -413,3 +413,104 @@ acceleration. We have :math:`F = ma = mg`. We cancel the :math:`m` and see that
 all weights fall with the same acceleration, :math:`a = g`, as was Galileo's
 rumor. When the force is constant then the acceleration is constant, and we
 have :math:`a = F/m`.
+
+The motion equations for constant acceleration
+----------------------------------------------
+
+For constant acceleration, the average speed occurs at the midpoint of a time
+interval
+
+.. math::
+
+   v_{ave} = \frac{v + v_0}{2}.
+
+(This is seen in the graph of a straight line. We use this fact in labs
+involving spark tape).
+
+Let's set :math:`t_f = 0` and drop the subscript on :math:`t_i` so that
+:math:`v_{ave} = \frac{\Delta x}{\Delta t} = \frac{x_f - x_i}{t_f - t_i}`
+becomes
+
+.. math::
+
+   v_{ave} = \frac{x_f - x_i}{t},
+
+which can be written as :math:`x_f = x_i + v_{ave} t`, or, since one subscript
+is easier than two,
+
+.. math::
+
+   x = x_0 + v_{ave} t.
+
+Notice that we can solve this for :math:`t` to get :math:`t = \frac{v -
+v_0}{a}`.
+
+Substitute this :math:`v` in the equation :math:`x = x_0 + v_{ave} t = x_0 +
+(v + v_0)t/2` to get
+
+.. math::
+
+   x = x_0 + \frac{(v_0 + at + v_0)t}{2} = x_0 + \frac{(2v_0 + at)t}{2} = x_0 +
+   v_0t + \frac{1}{2}at^2.
+
+If instead of substituting :math:`v` in the above equation, we can instead
+substitute :math:`t` as noted to get,
+
+.. math::
+
+   x = x_0 + \frac{(v + v_0)t}{2} = x_0 + \frac{(v + v_0)(v - v_0)}{2a}
+
+or
+
+.. math::
+
+   v^2 = v_0^2 + 2a(x-x_0).
+
+Galileo's measurements of motion down inclined planes resulted in the following
+so-called motion equations that we use to describe motion under constant
+acceleration.
+
+#) :math:`x = x_0 + v_0 t + \frac{1}{2} at^2` (notice that this is a quadratic
+   equation in t and so has two solutions)
+#) :math:`v = v_0 + at`
+#) :math:`v^2 = v_0^2 + 2a(x-x_0)`
+#) :math:`x = x_0 + \frac{1}{2}(v + v_0)t`
+#) :math:`\bar{v} = (v_0 + v) / 2` (for linear relations, the average occurs at
+   the midpoint of an interval).
+
+Notice that when :math:`x_0 = 0` and :math:`v_0 = 0` these equations become
+:math:`x = \frac{1}{2}at^2`, :math:`v = at`, and :math:`v^2 = 2ax`.
+
+This looks like five equations but it is really only two independent equations
+plus three rearrangements. For these two equations, we can have only two
+unknowns.
+
+It does not matter what is the object-from falling coins to rocket ships-the
+motion of any object moving with constant acceleration can be described by
+these motion equations. In these equations, :math:`x` represents the distance
+an object has moved in time :math:`t` from its starting place, :math:`x_0`. The
+object's speed is represented by :math:`v` and its initial speed by
+:math:`v_0`. Speed is visualized in terms of how quickly an object's position
+is changing. Notice that :math:`x` represents *how far* an object has moved
+while :math:`v` represents *how fast* it is moving or how quickly the object's
+*position* is changing while acceleration represents how quickly its *speed* is
+changing in time. Speed is the time rate of change of *position* while
+acceleration is the time rate of change of *speed*. In symbols, speed :math:`v=
+\Delta x / \Delta t`, where the change in position is :math:`\Delta x =
+X_{final} - X_{initial}`, and :math:`a = \Delta v / \Delta t`. (In calculus,
+differential changes are used, making :math:`v = dx/dt` and :math:`a = dv/dt =
+d^2x/dt^2`.)
+
+Example:
+
+Suppose a car is accelerated from a stopped position to a speed of 20 m/s (45
+mph) in 10 seconds. Its acceleration is :math:`a = \Delta v / \Delta t = ( 20
+m/s ) / 10 s = 2 m/s^2` and it will have traveled a distance
+
+.. math::
+
+   x = \frac{1}{2}at^2 = ( \frac{1}{2} )( 2 m/s^2 )( 10s )2 = 100 m (109 yards).
+
+Compared to your own driving style, does this seem like a high or low rate of
+acceleration? Do you typically accelerate from 0 to 20 m/s (45 mph) in 10
+seconds while traveling just 100 meters?
