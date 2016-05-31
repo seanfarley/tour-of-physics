@@ -348,8 +348,8 @@ Acceleration = change in speed / change in time. It is a measure of how quickly
 the speed of an object is changing.
 
 `Here
-<http://www.ac.wwu.edu/~vawter/PhysicsNet/Topics/Kinematics/AccelerationValues.html>`_
-and `here <http://myweb.lmu.edu/jphillips/101_s03/orders.html>`_ are some
+<http://www.ac.wwu.edu/~vawter/PhysicsNet/Topics/Kinematics/AccelerationValues.html>`__
+and `here <http://myweb.lmu.edu/jphillips/101_s03/orders.html>`__ are some
 sample values of acceleration.
 
 Example: A person jumps off a platform and experiences a vertical increase in
